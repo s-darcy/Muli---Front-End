@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/star/oval blue star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="173.2%" height="100.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="33.5" cy="33.5" r="33.5"></circle>
+        <path d="M-6.66133815e-16,4.82600423 C-6.66133815e-16,3.0837474 1.41078632,1.66666667 3.15107945,1.66666667 L26.8489206,1.66666667 C28.5869856,1.66666667 30,3.08115027 30,4.82600423 L30,20.8894324 C30,22.6316893 28.5892137,24.04877 26.8489206,24.04877 L6.37272197,24.04877 C6.09780925,24.04877 5.7044919,24.1893813 5.48301342,24.372081 L1.47750385,27.6762649 C1.2610441,27.8548247 0.855347585,27.999576 0.593604184,27.999576 L0.491964624,27.999576 C0.220260065,27.999576 -6.66133815e-16,27.770219 -6.66133815e-16,27.4940117 L-6.66133815e-16,4.82600423 Z" id="path-4"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-1044.000000, -1834.000000)">
+            <g id="Feature_12" filter="url(#filter-1)" transform="translate(1.000000, 1722.000000)">
+                <rect id="background" fill="#FFFFFF" x="0" y="0" width="1440" height="660"></rect>
+                <g id="right" transform="translate(816.000000, 112.000000)">
+                    <g id="control/icon-holder/fill" transform="translate(227.000000, 0.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="layer" fill="#77AAFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <g id="fill/grey" mask="url(#mask-3)" fill-rule="evenodd" fill="#D3DEE3">
+                            <rect id="layer" x="0" y="0" width="67" height="67"></rect>
+                        </g>
+                        <g id="icon/comment" mask="url(#mask-3)">
+                            <g transform="translate(18.500000, 18.500000)">
+                                <mask id="mask-5" fill="white">
+                                    <use xlink:href="#path-4"></use>
+                                </mask>
+                                <use id="layer" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                <g id="fill/white" stroke="none" fill="none" mask="url(#mask-5)" fill-rule="evenodd">
+                                    <rect id="layer" fill="#FFFFFF" x="0" y="0" width="30" height="30"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

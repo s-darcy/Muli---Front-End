@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="32px" viewBox="0 0 35 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/quotes</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="172.2%" height="100.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="555" height="260" rx="4"></rect>
+        <path d="M29.4714709,5.25295788 C28.1650335,3.81509563 26.2978934,2.91666667 24.2307692,2.91666667 C20.2684698,2.91666667 17.0528396,6.23220785 17.0528396,10.3211874 C17.0528396,10.9019709 17.1145169,11.4648987 17.2378715,12.0071513 C11.2701252,11.697964 5.9798948,8.75363557 2.43625344,4.26806922 C1.81761141,5.36573139 1.46436868,6.63913227 1.46436868,7.99523372 C1.46436868,10.5627106 2.73155688,12.8294582 4.65943983,14.1573662 C3.48383307,14.1216546 2.37457614,13.7852137 1.40456038,13.234503 L1.40456038,13.3247218 C1.40456038,16.9137388 3.88006301,19.9078755 7.16765012,20.5854563 C6.56582917,20.7593155 5.93036606,20.8467149 5.27527835,20.8467149 C4.81269858,20.8467149 4.36133287,20.8016055 3.92398473,20.7151458 C4.83793021,23.6557151 7.48818519,25.797472 10.6309241,25.8547985 C8.17411155,27.8414919 5.07622887,29.0256137 1.71294689,29.0256137 C1.13355405,29.0256137 0.560702747,28.9917817 0,28.9241176 C3.17731557,31.0217048 6.95364857,32.2481168 11.0075294,32.2481168 C24.2167517,32.2481168 31.4376685,20.9670067 31.4376685,11.1810854 C31.4376685,10.8587411 31.4320615,10.5373366 31.419913,10.2215708 C32.8226043,9.17747601 34.0411983,7.8740022 35,6.38915099 C33.7141217,6.9774528 32.3291859,7.3759192 30.8769658,7.55447725 C32.3600246,6.63913227 33.4982511,5.18811311 34.0346568,3.45891929 C32.645983,4.30660017 31.1115264,4.92309536 29.4714709,5.25295788 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-642.000000, -2776.000000)">
+            <g id="Testimonials_4" filter="url(#filter-1)" transform="translate(1.000000, 2383.000000)">
+                <rect id="background" fill="#FFFFFF" x="0" y="0" width="1440" height="860"></rect>
+                <g id="Group-3" transform="translate(151.000000, 191.000000)">
+                    <g id="Rectangle">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <rect stroke="#D3DEE3" stroke-width="1" x="0.5" y="0.5" width="554" height="259" rx="4"></rect>
+                    </g>
+                    <g id="icon/social-media/twitter" transform="translate(490.000000, 200.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="layer" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="fill/blue" mask="url(#mask-4)" fill-rule="evenodd" fill="#00B1FF">
+                            <rect id="layer" x="0" y="0" width="35" height="35"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

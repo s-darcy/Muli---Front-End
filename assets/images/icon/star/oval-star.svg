@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/star/oval-star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="119.6%" height="100.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-2" cx="33.5" cy="33.5" r="33.5"></circle>
+        <path d="M15.5413283,0.715326323 C15.2415898,-0.239801903 14.7578556,-0.237081342 14.4589709,0.715326323 L11.0498575,11.5785967 L0.855036883,12.2173359 C-0.139940078,12.2796745 -0.288285688,12.800225 0.524513254,13.3799669 L8.66288105,19.1847884 L5.5742414,29.0268569 C5.27450289,29.9819851 5.69270779,30.2842359 6.50642124,29.7080294 L15.0001496,23.6934538 L23.4938779,29.7080294 C24.3055491,30.2827897 24.7249425,29.9792645 24.4260578,29.0268569 L21.3374181,19.1847884 L29.4757859,13.3799669 C30.2875874,12.8009364 30.1406043,12.2796973 29.1452622,12.2173359 L18.9504417,11.5785967 L15.5413283,0.715326323 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-150.000000, -1198.000000)">
+            <g id="Feature_16" filter="url(#filter-1)" transform="translate(0.000000, 921.000000)">
+                <polygon id="background" fill="#FFFFFF" points="0 0 793.328125 0 857.554688 0 1441 0 1441 800 0 800"></polygon>
+                <g id="control/icon-holder/border-grey" transform="translate(150.000000, 277.000000)">
+                    <g id="layer" opacity="0.5">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        <circle stroke="#D3DEE3" stroke-width="1" cx="33.5" cy="33.5" r="33"></circle>
+                    </g>
+                    <g id="icon/star" transform="translate(18.500000, 18.500000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="layer" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="fill/blue" mask="url(#mask-4)" fill-rule="evenodd" fill="#00B1FF">
+                            <rect id="layer" x="0" y="0" width="30" height="30"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

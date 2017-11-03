@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="37px" viewBox="0 0 22 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>navigation/direction/grey stroke copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="100.1%" height="100.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M29.4903563,18.5383956 C28.6696602,17.8001514 27.3646376,17.82409 26.5755068,18.591864 C25.786376,19.359638 25.8119646,20.5805071 26.6326607,21.3187514 L42.9472526,35.9942865 L26.6326607,50.6698216 C25.8119646,51.4080659 25.786376,52.6289349 26.5755068,53.396709 C27.3646376,54.164483 28.6696602,54.1884216 29.4903563,53.4501773 C29.4903563,53.4501773 47.3496989,37.3991687 47.4138955,37.3367095 C47.799908,36.9611439 47.9909752,36.4771621 47.9893925,35.9942865 C47.9909752,35.5114109 47.799908,35.0274291 47.4138955,34.6518635 C47.3496989,34.5894043 29.4903563,18.5383956 29.4903563,18.5383956 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-175.000000, -4227.000000)">
+            <g id="Product_1" filter="url(#filter-1)" transform="translate(1.000000, 3945.000000)">
+                <rect id="Mask" fill="#F5F8FA" x="0" y="0" width="1440" height="600"></rect>
+                <g id="control/direction/right" transform="translate(186.000000, 300.000000) scale(-1, 1) translate(-186.000000, -300.000000) translate(150.000000, 264.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="layer" fill="#C3CAD7" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <g id="fill/blue" mask="url(#mask-3)" fill-rule="evenodd" fill="#00B1FF">
+                        <rect id="layer" x="0" y="0" width="72" height="72"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/play button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="100.1%" height="100.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="1440" height="920"></rect>
+        <path d="M36,72 C16.117749,72 0,55.882251 0,36 C0,16.117749 16.117749,0 36,0 C55.882251,0 72,16.117749 72,36 C72,55.882251 55.882251,72 36,72 Z M23,20.5986961 L23,51.4010599 C23,51.9617666 23.3979081,52.200443 23.8887526,51.9534684 L54.7066318,36.447065 C55.195018,36.2013274 55.1974763,35.7996655 54.7066318,35.5526909 L23.8887526,20.0462875 C23.4003664,19.8005499 23,20.0466347 23,20.5986961 Z" id="path-4"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-685.000000, -373.000000)">
+            <g id="Header_14" filter="url(#filter-1)" transform="translate(1.000000, 0.000000)">
+                <g id="Device/iphone">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+                    <g id="icon/play-button/fill" mask="url(#mask-3)">
+                        <g transform="translate(684.000000, 373.000000)">
+                            <mask id="mask-5" fill="white">
+                                <use xlink:href="#path-4"></use>
+                            </mask>
+                            <use id="layer" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            <g id="fill/blue" stroke="none" fill="none" mask="url(#mask-5)" fill-rule="evenodd">
+                                <rect id="layer" fill="#00B1FF" x="0" y="0" width="72" height="72"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

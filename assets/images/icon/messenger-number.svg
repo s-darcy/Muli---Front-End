@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="22px" viewBox="0 0 61 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>resizing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M-6.66133815e-16,3.86080338 C-6.66133815e-16,2.46699792 1.12862906,1.33333333 2.52086356,1.33333333 L21.4791364,1.33333333 C22.8695885,1.33333333 24,2.46492022 24,3.86080338 L24,16.711546 C24,18.1053514 22.8713709,19.239016 21.4791364,19.239016 L5.20212623,19.239016 C4.9247868,19.239016 4.52537079,19.3830353 4.31857182,19.5536258 L1.249842,22.085051 C1.0392078,22.2588052 0.649307169,22.3996608 0.373343174,22.3996608 L0.495111873,22.3996608 C0.221669136,22.3996608 -6.66133815e-16,22.1785457 -6.66133815e-16,21.9037911 L-6.66133815e-16,3.86080338 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="data/comments" transform="translate(0.000000, -1.000000)">
+            <g id="resizing">
+                <text id="layer" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#08131F">
+                    <tspan x="39" y="19">00</tspan>
+                </text>
+                <g id="icon/comment">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="layer" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <g id="fill/grey" mask="url(#mask-2)" fill-rule="evenodd" fill="#D3DEE3">
+                        <rect id="layer" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

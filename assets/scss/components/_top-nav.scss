@@ -1,0 +1,22 @@
+.navigation {
+    display: flex;
+    margin-top: 70px;
+    background-color: transparent;
+    margin-bottom: 51px;
+    
+    .navigation__section--logo {
+        justify-content: center;
+        background-color: transparent;
+       
+    }
+
+    .top-bar-section li:not(.has-form) a:not(.button) {
+        background-color: white;
+    }
+
+}
+
+.navigation__section--hamburger {
+        margin-right: -578px;
+        margin-top: 12px;
+}

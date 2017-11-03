@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="23px" viewBox="0 0 61 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>data/comments copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="137.8%" height="100.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="735" y="75" width="554" height="550" rx="4"></rect>
+        <path d="M11.9994077,22.9133326 C-11.411193,10.08165 5.52006628,-5.87122465 11.9994077,4.87273885 C18.4797829,-5.87122465 35.4120759,10.08165 11.9994077,22.9133326 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-859.000000, -3611.000000)">
+            <g id="Ecommerce_6" filter="url(#filter-1)" transform="translate(1.000000, 3244.000000)">
+                <rect id="background" fill="#FFFFFF" x="0" y="-6.02884745e-14" width="1440" height="700"></rect>
+                <g id="Mask">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#D3DEE3" stroke-width="1" x="735.5" y="75.5" width="553" height="549" rx="4"></rect>
+                </g>
+                <g id="data/comments" transform="translate(858.000000, 366.000000)">
+                    <g id="resizing">
+                        <text id="layer" font-family="Roboto-Regular, Roboto" font-size="20" font-weight="normal" fill="#08131F">
+                            <tspan x="39" y="19">56</tspan>
+                        </text>
+                        <g id="icon/heart">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="layer" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <g id="fill/blue" mask="url(#mask-4)" fill-rule="evenodd" fill="#00B1FF">
+                                <rect id="layer" x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

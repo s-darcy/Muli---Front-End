@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="27px" viewBox="0 0 36 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/menu/grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="114.8%" height="100.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="1440" height="920"></rect>
+        <path d="M1.89473684,9 C0.848302579,9 0,8.1045695 0,7 C0,5.8954305 0.848302579,5 1.89473684,5 L34.1052632,5 C35.1516974,5 36,5.8954305 36,7 C36,8.1045695 35.1516974,9 34.1052632,9 L1.89473684,9 Z M1.89473684,20 C0.848302579,20 0,19.1045695 0,18 C0,16.8954305 0.848302579,16 1.89473684,16 L34.1052632,16 C35.1516974,16 36,16.8954305 36,18 C36,19.1045695 35.1516974,20 34.1052632,20 L1.89473684,20 Z M1.89473684,31 C0.848302579,31 0,30.1045695 0,29 C0,27.8954305 0.848302579,27 1.89473684,27 L34.1052632,27 C35.1516974,27 36,27.8954305 36,29 C36,30.1045695 35.1516974,31 34.1052632,31 L1.89473684,31 Z" id="path-4"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-1306.000000, -75.000000)">
+            <g id="Header_14" filter="url(#filter-1)" transform="translate(1.000000, 0.000000)">
+                <g id="Device/iphone">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+                </g>
+                <g id="icon/menu" transform="translate(1305.000000, 70.000000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="layer" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-4"></use>
+                    <g id="fill/grey" mask="url(#mask-5)" fill-rule="evenodd" fill="#D3DEE3">
+                        <rect id="layer" x="0" y="0" width="36" height="36"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

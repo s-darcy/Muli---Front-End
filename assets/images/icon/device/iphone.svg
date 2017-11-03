@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="302px" height="307px" viewBox="0 0 302 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>device/iphone</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="137.8%" height="100.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="554" height="550" rx="4"></rect>
+        <path d="M264.078217,601 L37.7862055,601 C19.4644069,601 4.50796857,586.594738 4.50796857,567.856618 L4.50796857,33.1433824 C4.50796857,14.5107494 19.4644069,0 37.7862055,0 L264.078217,0 C282.862188,0 297.356453,14.5107494 297.356453,33.1433824 L297.356453,567.856618 C297.356453,586.594738 282.862188,601 264.078217,601 Z" id="path-4"></path>
+        <filter x="-2.6%" y="-1.0%" width="105.3%" height="102.6%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.75" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-279.000000, -3563.000000)">
+            <g id="Ecommerce_6" filter="url(#filter-1)" transform="translate(1.000000, 3244.000000)">
+                <rect id="background" fill="#FFFFFF" x="0" y="-6.02884745e-14" width="1440" height="700"></rect>
+                <g id="mask" transform="translate(151.000000, 75.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="#F5F8FA" xlink:href="#path-2"></use>
+                    <g id="mockup/device/iphone" mask="url(#mask-3)">
+                        <g transform="translate(127.000000, 246.000000)">
+                            <path d="M0.838888889,117.345713 C0.838888889,116.047897 1.90016079,114.99581 3.12676768,114.99581 L5.41464646,114.99581 L5.41464646,134.159972 L3.12676768,134.159972 C1.86320711,134.159972 0.838888889,133.129624 0.838888889,131.81007 L0.838888889,117.345713 Z M0.838888889,160.512783 C0.838888889,159.188621 1.90016079,158.115175 3.12676768,158.115175 L5.41464646,158.115175 L5.41464646,196.4435 L3.12676768,196.4435 C1.86320711,196.4435 0.838888889,195.337743 0.838888889,194.045891 L0.838888889,160.512783 Z M0.838888889,208.423189 C0.838888889,207.099027 1.90016079,206.025581 3.12676768,206.025581 L5.41464646,206.025581 L5.41464646,244.353905 L3.12676768,244.353905 C1.86320711,244.353905 0.838888889,243.248148 0.838888889,241.956297 L0.838888889,208.423189 Z" id="layer" stroke="none" fill="#00B1FF" fill-rule="evenodd"></path>
+                            <path d="M296.585354,132.900466 C296.585354,131.576303 297.646625,130.502857 298.873232,130.502857 L301.161111,130.502857 L301.161111,168.831182 L298.873232,168.831182 C297.609672,168.831182 296.585354,167.725425 296.585354,166.433573 L296.585354,132.900466 L296.585354,132.900466 L296.585354,132.900466 Z" id="layer" stroke="none" fill="#00B1FF" fill-rule="evenodd" transform="translate(298.873232, 149.667019) scale(-1, 1) translate(-298.873232, -149.667019) "></path>
+                            <g id="layer" stroke="none" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use stroke="#00B1FF" stroke-width="1.5" fill="#F5F8FA" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            </g>
+                            <polygon id="layer" stroke="#77AAFF" stroke-width="1" fill-opacity="0.300000012" fill="#FFFFFF" fill-rule="evenodd" points="20.0485971 66.2867647 20.0485971 532.503676 283.955412 532.503676 283.955412 66.2867647"></polygon>
+                            <g id="icon/picture/blue/72px" stroke="none" fill="none" transform="translate(115.000000, 271.500000)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M0,0 L72,0 L72,58 L0,58 L0,0 Z M21.0918367,19.71886 C23.7799982,19.71886 25.9591837,17.5396745 25.9591837,14.851513 C25.9591837,12.1633515 23.7799982,9.98416608 21.0918367,9.98416608 C18.4036752,9.98416608 16.2244898,12.1633515 16.2244898,14.851513 C16.2244898,17.5396745 18.4036752,19.71886 21.0918367,19.71886 Z M0.169969358,51.6212737 L17.8491152,32.3983218 L28.4691762,43.9457644 L53.1234291,14.851513 L71.9813512,35.356176 L71.9813512,56.9978057 C71.9813512,57.5513023 71.5402349,58 70.9909368,58 L0.971765557,58 C0.42477479,58 -0.00568434631,57.5615643 0.0108227544,57.003324 L0.169969358,51.6212737 Z" id="layer" stroke="#77AAFF"></path>
+                            </g>
+                            <path d="M171.014703,566.751838 C171.014703,578.344612 161.571875,587.742647 149.92385,587.742647 C138.275824,587.742647 128.832997,578.344612 128.832997,566.751838 C128.832997,555.158042 138.275824,545.761029 149.92385,545.761029 C161.571875,545.761029 171.014703,555.158042 171.014703,566.751838 L171.014703,566.751838 Z" id="layer" stroke="#77AAFF" stroke-width="1.5" fill="none"></path>
+                            <rect id="layer" stroke="none" fill="#00B1FF" fill-rule="evenodd" x="127.140693" y="43.2339479" width="45.5941558" height="5.15142857" rx="2.57571429"></rect>
+                            <path d="M149.937771,33.7704762 C151.336713,33.7704762 152.470779,32.6172896 152.470779,31.1947619 C152.470779,29.7722342 151.336713,28.6190476 149.937771,28.6190476 C148.538829,28.6190476 147.404762,29.7722342 147.404762,31.1947619 C147.404762,32.6172896 148.538829,33.7704762 149.937771,33.7704762 Z" id="layer" stroke="none" fill="#00B1FF" fill-rule="evenodd"></path>
+                            <path d="M111.452381,48.3853764 C114.250265,48.3853764 116.518398,46.0790033 116.518398,43.2339479 C116.518398,40.3888924 114.250265,38.0825193 111.452381,38.0825193 C108.654497,38.0825193 106.386364,40.3888924 106.386364,43.2339479 C106.386364,46.0790033 108.654497,48.3853764 111.452381,48.3853764 Z" id="layer" stroke="none" fill="#00B1FF" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

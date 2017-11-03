@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="38px" viewBox="0 0 50 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo/blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-0.0%" y="-0.1%" width="114.8%" height="100.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="1440" height="920"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Core---Base-components" transform="translate(-695.000000, -70.000000)">
+            <g id="Header_14" filter="url(#filter-1)" transform="translate(1.000000, 0.000000)">
+                <g id="Device/iphone">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-2"></use>
+                </g>
+                <g id="logo/frames-blue" transform="translate(694.000000, 70.000000)" fill="#00B1FF">
+                    <path d="M0,11.9942021 C0,10.3405499 1.3408497,9 3.00732225,9 L7.19670206,9 C7.36420889,9 7.5,9.12771606 7.5,9.29824346 L7.5,28.7017565 C7.5,28.8664719 7.36982346,29 7.19670206,29 L3.00732225,29 C1.34642403,29 0,27.656688 0,26.0057979 L0,11.9942021 Z" id="layer" opacity="0.550000012"></path>
+                    <path d="M10,7.99649048 C10,6.34157448 11.3408497,5 13.0073223,5 L17.1967021,5 C17.3642089,5 17.5,5.12483597 17.5,5.29550785 L17.5,32.7044922 C17.5,32.8676966 17.3698235,33 17.1967021,33 L13.0073223,33 C11.346424,33 10,31.6495018 10,30.0035095 L10,7.99649048 Z" id="layer" opacity="0.699999988"></path>
+                    <rect id="layer" x="20" y="0" width="30" height="38" rx="3"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
